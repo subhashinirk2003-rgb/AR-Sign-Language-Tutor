@@ -1,4 +1,4 @@
-# AR Sign Language Tutor
+# Sign Language Tutor
 
 ### A Real-Time 3D Interactive Learning System
 
